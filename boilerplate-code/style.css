@@ -1,0 +1,161 @@
+/* bitte mit Suchen & Ersetzen "name" mit
+     deinem Vornamen ersetzen. */
+
+:root {
+  font-size: 100%;
+  line-height: 1;
+  font-family: Inter, helvetica, arial;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 0;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+main {
+  display: grid;
+  grid-gap: 2rem 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  place-items: center;
+}
+
+section {
+  border: 1px solid black;
+  margin: 0;
+  width: 12rem;
+  height: 12rem;
+  font-size: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section p {
+  display: inline-block;
+  margin: 0;
+}
+
+/* Animation 1 */
+
+section#name-animation-1 p {
+  font-family: 'Chee';
+  animation: name-animation-1 2s infinite alternate;
+}
+
+@keyframes name-animation-1 {
+  0% {
+    font-variation-settings:
+      'yest' 100,
+      'grvt' 100;
+  }
+  100% {
+    font-variation-settings:
+      'yest' 1000,
+      'grvt' 1000;
+  }
+}
+
+/* Animation 2 */
+
+section#name-animation-2 {
+  font-family: 'Planar';
+  overflow: hidden;
+}
+
+section#name-animation-2 .wrapper {
+  display: inline-block;
+  animation: name-animation-2-wrapper 2s infinite alternate ease-in-out;
+}
+section#name-animation-2 p {
+  animation: name-animation-2 2s infinite alternate ease-in-out;
+}
+
+@keyframes name-animation-2 {
+  0% {
+    font-variation-settings: 'slnt' 45;
+  }
+  40% {
+    font-variation-settings: 'slnt' 45;
+  }
+  60% {
+    font-variation-settings: 'slnt' -45;
+  }
+  100% {
+    font-variation-settings: 'slnt' -45;
+  }
+}
+
+@keyframes name-animation-2-wrapper {
+  0% {
+    transform: translateX(-8.5rem) scale(0.8);
+  }
+  10% {
+    transform: translateX(-8.5rem) scale(0.9);
+  }
+  30% {
+    transform: translateX(-1rem) scale(1);
+  }
+  50% {
+    transform: translateX(0rem) scale(2);
+  }
+  70% {
+    transform: translateX(1rem) scale(1);
+  }
+  90% {
+    transform: translateX(8.5rem) scale(0.9);
+  }
+  100% {
+    transform: translateX(8.5rem) scale(0.8);
+  }
+}
+/* Animation 3 */
+section#name-animation-3 {
+  overflow: hidden;
+}
+
+section#name-animation-3 p {
+  font-family: 'Gridlite';
+  transform: translate(0.85rem, -2.7rem);
+  font-size: 23rem;
+  animation: name-animation-3 1s infinite alternate ease-in-out;
+}
+@keyframes name-animation-3 {
+  0% {
+    font-variation-settings:
+      'BACK' 1,
+      'wght' 400;
+  }
+  50% {
+    font-variation-settings:
+      'BACK' 400,
+      'wght' 400;
+  }
+  100% {
+    font-variation-settings:
+      'BACK' 400,
+      'wght' 900;
+  }
+}
+
+/* Animation 4 */
+
+section#name-animation-4 {
+  font-family: 'Ruder Plakat';
+  font-variation-settings: "YTUC" 250, "YTLC" 500, "YTDE" 100;
+/* alle 100 bis 900
+ ytuc = x height nach unten
+ytlc = relative x höhe
+ytde = unterlängentiefe */
+}
+
+/* Animation 5 */
+
+section#name-animation-5 {
+  font-family: 'Harber';
+  font-variation-settings: 'wght' 0, 'slnt' 0, 'VVLM' 0, 'NSSS' 0;
+  /* wght/opsz 0-20, rest -10 bis 10 */
+  /* weight, slant, volume noise, optical size */
+  /* Volume nimmt nach unten zu*/
+}

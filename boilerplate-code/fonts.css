@@ -1,0 +1,66 @@
+/*
+ * =======================
+ * Variable Font einbinden
+ * =======================
+ *
+ * Zur bessern Ordnung wird der Font in einem separaten Stylesheet
+ * eingebunden. Du könntest das aber auch direkt in style.css machen.
+ *
+ * Zum Nachschlagen:
+ * https://grillitype.com/blog/guides/introduction-variable-fonts
+ * https://web.dev/variable-fonts/
+ * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide
+ *
+ */
+
+/*
+ * ===================
+ * Einbinden ab Datei
+ * ===================
+ */
+
+ @font-face {
+	font-family: 'Chee';
+  src: url('/fonts/chee.woff2');
+}
+
+ @font-face {
+	font-family: 'Gridlite';
+  src: url('/fonts/Gridlite-VF.woff2');
+}
+
+ @font-face {
+	font-family: 'Planar';
+  src: url('/fonts/GT-Planar-Trial-VF.ttf');
+}
+
+ @font-face {
+	font-family: 'Harber';
+  src: url('/fonts/Harber.woff2');
+}
+
+ @font-face {
+	font-family: 'Ruder Plakat';
+  src: url('/fonts/RuderPlakat-VF.woff2');
+}
+
+/*
+ * Wichtig: "font-family" im font-face-Abschnitt «tauft» den
+ * Font, d.h. die Font-Datei wird mit einem Namen assoziert.
+ * Danach kannst du den Font für bestimmte HTML-Elemente
+ * aktivieren, z.B. p { font-family: 'My Variable Font'; }
+*/
+
+/*
+ * ===============================================
+ * Oder einbinden ab CDN (Google, Adobe, Monotype)
+ * ===============================================
+ */
+
+/*
+ @import url('https://fonts.googleapis.com/css2?family=Recursive:slnt,wght,CASL,CRSV,MONO@-15..0,300..1000,0..1,0..1,0..1&display=swap');
+*/
+
+/*
+ACHTUNG! die @import-Zeile muss zuoberst im Stylesheet stehen!
+*/
