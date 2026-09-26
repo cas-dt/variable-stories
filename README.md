@@ -23,7 +23,7 @@ Auf [v-fonts.com](https://v-fonts.com), Foundry Websites oder auf anderen Plattf
 - Stelle ein einfaches Storyboard her (max 3 Bilder).
 - Teile dein Storyboard inkl. 2 Bilder, die die Achsen des Fonts illustrieren, in Discord.
 
-### Eine einfache Animation
+### Eine einfache Animation
 
 - Füge deinen Font dem abgegebenen Projektordner hinzu.
 - Binde den Font ein.
