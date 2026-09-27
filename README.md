@@ -31,3 +31,7 @@ Auf [v-fonts.com](https://v-fonts.com), Foundry Websites oder auf anderen Plattf
 - Setze deine Animation um.
 
 ## Tag 2 – tbd
+
+## Tag 3 – tbd
+
+## Abgaebe – tbd
