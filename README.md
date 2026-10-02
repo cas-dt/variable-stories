@@ -18,11 +18,27 @@ Umfang: Bis zum 31. Oktober du erkundest sieben Variable Fonts und stellst minde
 
 ### Recherche
 
-Auf [v-fonts.com](https://v-fonts.com), Foundry Websites oder auf anderen Plattformen suchst du Variable Fonts.
+Auf Foundry Websites oder auf anderen Plattformen suchst du Variable Fonts (Links findest du unter dem folgenden Abschnitt).
 
 - Wähle eine oder mehrere Schriften, deren *Achsen* dir interessant scheinen.
 - Finde heraus, ob es eine Trial-Version des Fonts gibt, oder ob er sich per Link einbinden lässt.
 - Lade den Font, füge ihn in die abgegebene Coding-Vorlage ein.
+
+#### Plattformen
+
+- [V-Fonts](https://v-fonts.com/)
+- [Future Fonts](https://www.futurefonts.com/fonts?sort=random&page=1&limit=24&features=variable)
+- [Flint\*ype](https://flintype.com/)
+- [Adobe Fonts](https://fonts.adobe.com/fonts?browse_mode=default&cc=true&min_styles=1&max_styles=26&font_technology=vf)
+- [Google Fonts](https://fonts.google.com/?categoryFilters=Technology:%2FTechnology%2FVariable)
+
+#### Foundries
+
+- [DJR, Beispiel Extendomatic](https://typeset.djr.com/?ff=extendomatic)
+- [Grilli Type](https://www.grillitype.com/)
+- [Dinamo](https://abcdinamo.com/)
+- [Newglyph](https://newglyph.com/typefaces/)
+
 
 ### Storyboard
 
@@ -51,20 +67,23 @@ Auf [v-fonts.com](https://v-fonts.com), Foundry Websites oder auf anderen Plattf
 - Teste, ob du mit der CSS-Eigenschaft `variable-font-settings` das Aussehen eines Text-Elements ändern kannst.
 - Setze deine Animation um.
 
-## Hausaufgabe auf den 17. Oktober, (Abgabe 15. Oktober 18 Uhr)
+## Hausaufgabe auf den 15. Oktober
 
-- Entwickle deine Animation weiter:
-    - Kannst du zusätzliche Elemente einfügen?
+- Entwickle deine Animation weiter (drei Varianten):
     - Experimentiere (erstelle Variationen) mit Dauer, Timing (wann geschieht was?) und Easing.
     - Experimentiere ebenfalls mit Dimensionen, Ausprägung der Bewegung.
-- Lade bis am 17.10. mindestens 3 zusätzliche Versionen auf Paul.
 - Beschreibe in den Kommentaren zu jeder Version, wie die Szene strukturiert ist.
     - Woraus bestehen Anfang/Mitte/Ende?
     - Was ist der Change?
+- Lade bis am 15.10. 3 Versionen auf Paul (1 Zip-Datei).
+
+[Abgabe-Link Hausaufgabe](https://paul.zhdk.ch/mod/assign/view.php?id=114061)
 
 ## Tag 2 – tbd
 
 
 ## Tag 3 – tbd
 
-## Abgabe – tbd
+## Abgabe – 9. November
+
+[Abgabe-Link Paul]()
