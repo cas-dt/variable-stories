@@ -22,13 +22,14 @@ Auf [v-fonts.com](https://v-fonts.com), Foundry Websites oder auf anderen Plattf
 
 - Wähle eine oder mehrere Schriften, deren *Achsen* dir interessant scheinen.
 - Finde heraus, ob es eine Trial-Version des Fonts gibt, oder ob er sich per Link einbinden lässt.
+- Lade den Font, füge ihn in die abgegebene Coding-Vorlage ein.
 
 ### Storyboard
 
 - Überlege dir, wie du mit wenigen Zeichen eine ganz einfachen Plot mit einer einzigen Szene herstellen könntest.
 - Die Szene besteht aus Anfang, Mitte, Ende und Change (siehe Abbildung).
 - Der Plot folgt einem der 7 typischen Muster (siehe unten).
-- Stelle ein einfaches Storyboard her (max 3 Bilder).
+- Zeichne ein einfaches Storyboard mit 3 Bildern: Anfang, Change, Ende
 - Teile dein Storyboard inkl. 2 Bilder, die die Achsen des Fonts illustrieren, in Discord.
 
 ![](szene-minimal.jpg)

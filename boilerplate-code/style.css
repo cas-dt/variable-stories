@@ -154,8 +154,61 @@ ytde = unterlängentiefe */
 
 section#name-animation-5 {
   font-family: 'Harber';
-  font-variation-settings: 'wght' 0, 'slnt' 0, 'VVLM' 0, 'NSSS' 0;
+  font-size: 1rem;
+}
+
+section#name-animation-5 .wrapper {
+  animation: bar alternate 2s infinite ease-in-out;
+  transform-origin: bottom left;
+  --scale: 4
+}
+
+@keyframes bar {
+  0% {
+    transform: translate(-7rem, 4rem);
+  }
+  20% {
+    transform: translate(0rem, 4rem);
+  }
+  50% {
+    transform: translate(0rem, 4rem) scale(var(--scale));
+  }
+  100% {
+    transform: translate(0rem, 4rem) scale(var(--scale));
+  }
+}
+
+section#name-animation-5 {
+  /* overflow: hidden; */
+  order: -1;
+  position: relative;
+}
+
+section#name-animation-5 #hero {
+  /* Ausgangslage */
+  font-variation-settings: 'wght' 0, 'slnt' 10, 'VVLM' -10, 'NSSS' 0;
+  /* Animation */
+  animation: foo 2s infinite alternate ease-in-out;
   /* wght/opsz 0-20, rest -10 bis 10 */
   /* weight, slant, volume noise, optical size */
   /* Volume nimmt nach unten zu*/
+}
+
+@keyframes foo {
+  0% {
+    font-variation-settings: 'wght' 0, 'slnt' 10, 'VVLM' -10, 'NSSS' -10;
+  }
+  30% {
+    font-variation-settings: 'wght' 0, 'slnt' 0, 'VVLM' 10, 'NSSS' -10;
+  }
+  100% {
+    font-variation-settings: 'wght' 0, 'slnt' 0, 'VVLM' 10, 'NSSS' -10;
+    /* font-variation-settings: 'wght' 20, 'slnt' -10, 'VVLM' 10, 'NSSS' 10; */
+  }
+}
+
+#monster {
+  position: absolute;
+  margin: 0;
+  bottom: 0; right: 0;
 }
