@@ -34,7 +34,7 @@ Auf Foundry Websites oder auf anderen Plattformen suchst du Variable Fonts (Link
 
 #### Foundries
 
-- [DJR, Beispiel Extendomatic](https://typeset.djr.com/?ff=extendomatic)
+- [DJR, David Jonathan Ross](https://typeset.djr.com/)
 - [Grilli Type](https://www.grillitype.com/)
 - [Dinamo](https://abcdinamo.com/)
 - [Newglyph](https://newglyph.com/typefaces/)
