@@ -24,26 +24,6 @@
   src: url('/fonts/chee.woff2');
 }
 
- @font-face {
-	font-family: 'Gridlite';
-  src: url('/fonts/Gridlite-VF.woff2');
-}
-
- @font-face {
-	font-family: 'Planar';
-  src: url('/fonts/GT-Planar-Trial-VF.ttf');
-}
-
- @font-face {
-	font-family: 'Harber';
-  src: url('/fonts/Harber.woff2');
-}
-
- @font-face {
-	font-family: 'Ruder Plakat';
-  src: url('/fonts/RuderPlakat-VF.woff2');
-}
-
 /*
  * Wichtig: "font-family" im font-face-Abschnitt «tauft» den
  * Font, d.h. die Font-Datei wird mit einem Namen assoziert.
