@@ -49,6 +49,13 @@ Auf Foundry Websites oder auf anderen Plattformen suchst du Variable Fonts (Link
 - Teile dein Storyboard inkl. 2 Bilder, die die Achsen des Fonts illustrieren, in Discord.
 
 ![](szene-minimal.jpg)
+Beispiel Tragödie
+<img width="1865" height="512" alt="sketch1" src="https://github.com/user-attachments/assets/b77c47c2-e3c4-4255-a800-e38d43ebb577" />
+
+Beispiel Sieg über das Monster
+<img width="3302" height="687" alt="sketch2" src="https://github.com/user-attachments/assets/4d93196f-74d2-4d5d-b199-19392a4022fc" />
+
+
 
 ### Sieben grundlegende Erzählungen 
 
