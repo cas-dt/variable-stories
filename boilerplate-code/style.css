@@ -4,7 +4,7 @@
 :root {
   font-size: 100%;
   line-height: 1;
-  font-family: 'Chee';
+  font-family: 'Boring Sans';
 }
 
 body {
@@ -43,9 +43,9 @@ p {
 }
 
 @keyframes change {
-  0% { font-variation-settings: 'yest' 100, 'grvt' 100; }
-  30% { font-variation-settings: 'yest' 100, 'grvt' 100; }
-  70% { font-variation-settings: 'yest' 1000, 'grvt' 1000; }
-  100% { font-variation-settings: 'yest' 1000, 'grvt' 1000; }
+  0% { font-variation-settings: 'wrdn' 100, 'wght' 1000; }
+  30% { font-variation-settings: 'wrdn' 100, 'wght' 1000; }
+  70% { font-variation-settings: 'wrdn' 1000, 'wght' 1000; }
+  100% { font-variation-settings: 'wrdn' 1000, 'wght' 1000; }
   /* Timing wie Animation rein-raus */
 }

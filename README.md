@@ -6,7 +6,7 @@ CSS Animation, Variable Fonts und Storytelling.
 
 Ausgehend von den Eigenschaften deiner gewählten Variable Fonts entwickelst du CSS-Animationen, die auf einer archetypischen Erzählung beruhen. Du beginnst mit ganz einfachen Abläufen, die du verfeinerst und ausbaust.
 
-Umfang: Bis zum 31. Oktober du erkundest sieben Variable Fonts und stellst mindestens vier ausgearbeitete Animationen her.
+Umfang: Bis zum 31. Oktober erkundest du mindestens sieben Variable Fonts und stellst mindestens vier ausgearbeitete Animationen her.
 
 ## Ziele
 
@@ -40,10 +40,10 @@ Auf Foundry Websites oder auf anderen Plattformen suchst du Variable Fonts (Link
 - [Newglyph](https://newglyph.com/typefaces/)
 
 
-### Storyboard
+### Storytelling
 
-- Überlege dir, wie du mit wenigen Zeichen eine ganz einfachen Plot mit einer einzigen Szene herstellen könntest.
-- Die Szene besteht aus Anfang, Mitte, Ende und Change (siehe Abbildung).
+- Überlege dir, wie du mit wenigen Zeichen einen ganz einfachen Plot mit einer einzigen Szene herstellen könntest.
+- Die Szene besteht aus Anfang, Change und Ende (siehe Abbildung).
 - Der Plot folgt einem der 7 typischen Muster (siehe unten).
 - Zeichne ein einfaches Storyboard mit 3 Bildern: Anfang, Change, Ende
 - Teile dein Storyboard inkl. 2 Bilder, die die Achsen des Fonts illustrieren, in Discord.
