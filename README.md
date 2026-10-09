@@ -101,12 +101,11 @@ Beispiel Sieg über das Monster
 
 ## Hausaufgabe auf den  28. Oktober
 
-- Entwickle deine Animation weiter (fünf Varianten):
+- Entwickle deine Animation weiter (drei zusätzliche Varianten):
     - Halte in den Kommentaren fest, wie sich die Storytelling-Aspekte in deiner Animation manifestieren.
     - Was ist Anfang/Change/Ende?
     - Was sind weitere Cs (Conflict, Character, Context).
 - Lade bis am 28.10. 18 Uhr 5 Versionen auf Paul (1 Zip-Datei).
-- 
 - [Abgabe-Link Paul]() (Link noch nicht aktiv)
 
 
