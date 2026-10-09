@@ -91,7 +91,7 @@ Beispiel Sieg über das Monster
 - Arbeite die Struktur gegebenenfalls stärker aus.
 - ‘Change’ ist eines von 4 Cs. Die anderen sind ‘Character’, ‘Conflict’ und ‘Context’. Wähle einen dieser Aspekte und arbeite ihn in deine Animation(en) ein.
 
-### Themen / Fragestellungen
+### Themen / Fragestellungen
 
 - Gibt es andere Arten von Anfang/Ende, die du in deine Animation einarbeiten könntest?
 - Timing verfeinern (Struktur Szene)
