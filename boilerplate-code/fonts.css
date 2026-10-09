@@ -21,16 +21,9 @@
  */
 
  @font-face {
-	font-family: 'Boring Sans';
-  src: url('/fonts/Boring-Sans-Variable-trial.ttf') format('truetype');
+	font-family: 'Harber';
+  src: url('/fonts/Harber.woff2') format('woff2-variations');
 }
-
-/*
- * Wichtig: "font-family" im font-face-Abschnitt «tauft» den
- * Font, d.h. die Font-Datei wird mit einem Namen assoziert.
- * Danach kannst du den Font für bestimmte HTML-Elemente
- * aktivieren, z.B. p { font-family: 'My Variable Font'; }
-*/
 
 /*
  * ===============================================

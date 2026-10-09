@@ -55,8 +55,6 @@ Beispiel Tragödie
 Beispiel Sieg über das Monster
 <img width="3302" height="687" alt="sketch2" src="https://github.com/user-attachments/assets/4d93196f-74d2-4d5d-b199-19392a4022fc" />
 
-
-
 ### Sieben grundlegende Erzählungen 
 
 1. Overcoming the Monster / Sieg über das Monster
@@ -86,11 +84,41 @@ Beispiel Sieg über das Monster
 
 [Abgabe-Link Hausaufgabe](https://paul.zhdk.ch/mod/assign/view.php?id=114061)
 
-## Tag 2 – tbd
+## Tag 2
+
+- Besprechung Hausaufgabe
+- Prüfe, ob deine Szene der vorgegebenen Struktur (Anfang–Change–Ende) entspricht.
+- Arbeite die Struktur gegebenenfalls stärker aus.
+- ‘Change’ ist eines von 4 Cs. Die anderen sind ‘Character’, ‘Conflict’ und ‘Context’. Wähle einen dieser Aspekte und arbeite ihn in deine Animation(en) ein.
+
+### Themen / Fragestellungen
+
+- Gibt es andere Arten von Anfang/Ende, die du in deine Animation einarbeiten könntest?
+- Timing verfeinern (Struktur Szene)
+- 4 Cs: Kannst du einen weitern Aspekt in deine Animation einarbeiten?
+- Prägnanz: Findest du Möglichkeiten, wie du den Change betonen kannst?
+- Arbeit mit CSS Variablen (Input am frühen Nachmittag)
+
+## Hausaufgabe auf den  28. Oktober
+
+- Entwickle deine Animation weiter (fünf Varianten):
+    - Halte in den Kommentaren fest, wie sich die Storytelling-Aspekte in deiner Animation manifestieren.
+    - Was ist Anfang/Change/Ende?
+    - Was sind weitere Cs (Conflict, Character, Context).
+- Lade bis am 28.10. 18 Uhr 5 Versionen auf Paul (1 Zip-Datei).
+- 
+- [Abgabe-Link Paul]() (Link noch nicht aktiv)
 
 
-## Tag 3 – tbd
+## Tag 3
+
+- Verfeinerung/Ausarbeitung der bisher erstellten Versionen.
+- Kurze Präsentation gegen Ende des Tages.
+
+Kernziel im Auge behalten: Eine würdige/adäquate Inszenierung der Eigenschaft(en) eines Variable Fonts.
+
+
 
 ## Abgabe – 9. November
 
-[Abgabe-Link Paul]()
+[Abgabe-Link Paul]() (Link noch nicht aktiv)

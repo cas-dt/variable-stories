@@ -4,7 +4,8 @@
 :root {
   font-size: 100%;
   line-height: 1;
-  font-family: 'Boring Sans';
+  font-family: 'Harber';
+  font-variation-settings: "wght" 0, "slnt" -3.1, "VVLM" 10, "NSSS" -1;
 }
 
 body {
@@ -18,6 +19,9 @@ body {
 p {
   font-size: 10rem;
   margin: 0;
+
+
+
 }
 
 /* Animation Wrapper */
@@ -32,8 +36,8 @@ p {
   20% { transform: translateX(-60vw); } /* Startposition */
   30% { transform: translateX(0vw); } /* von 30 bis 70 ist … */
   70% { transform: translateX(0vw); } /* … das Zeichen im Zentrum */
-  80% { transform: translateX(55vw); } /* Endposition */
-  100% { transform: translateX(55vw); }
+  80% { transform: translateX(65vw); } /* Endposition */
+  100% { transform: translateX(65vw); }
 }
 
 /* Animation des Zeichens */
@@ -43,9 +47,9 @@ p {
 }
 
 @keyframes change {
-  0% { font-variation-settings: 'wrdn' 100, 'wght' 1000; }
-  30% { font-variation-settings: 'wrdn' 100, 'wght' 1000; }
-  70% { font-variation-settings: 'wrdn' 1000, 'wght' 1000; }
-  100% { font-variation-settings: 'wrdn' 1000, 'wght' 1000; }
+  0% { font-variation-settings: 'nsss' -10, 'wght' 0; }
+  30% { font-variation-settings: 'nsss' -10, 'wght' 0; }
+  70% { font-variation-settings: 'nsss' 10, 'wght' 20; }
+  100% { font-variation-settings: 'nsss' 10, 'wght' 20; }
   /* Timing wie Animation rein-raus */
 }
