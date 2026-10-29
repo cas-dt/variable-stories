@@ -116,12 +116,22 @@ Beispiel Sieg über das Monster
 
 Kernziel im Auge behalten: Eine würdige/adäquate Inszenierung der Eigenschaft(en) eines Variable Fonts.
 
-
-
 ## Abgabe – 9. November
 Der Abgabeordner enthält:
 - 5 eigenständigen Stories
 - 5 verschiedenen Variable Fonts
 - zusätzliche Varianten in separatem Ordner
 
-[Abgabe-Link Paul]() (Link noch nicht aktiv)
+Finalisiere dein Projekt. Der Abgabe-Ordner enthält:
+
+- 5 eigenständige Stories/Animationen
+- mit 5 unterschiedlichen Variable Fonts
+- optional: zusätzliche Variationen einer Story in separatem Ordner.
+- zu jeder Story mind. einen Screenshot (u.a. damit wir sehen, wie Schriftgrössen/Viewport eingestellt sein sollten).
+- Beschreibe in den Kommentaren zu jeder Version, wie die Szene strukturiert ist.
+    - Woraus bestehen Anfang/Mitte/Ende?
+    - Was ist der Change?
+
+Lade einen gezipten Ordner bis am 9.11.,18 Uhr auf Paul.
+
+[Abgabe-Link Paul](https://paul.zhdk.ch/mod/assign/view.php?id=115524)
