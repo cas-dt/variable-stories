@@ -120,8 +120,8 @@ Kernziel im Auge behalten: Eine würdige/adäquate Inszenierung der Eigenschaft(
 
 ## Abgabe – 9. November
 Der Abgabeordner enthält:
-– 5 eigenständigen Stories
-– 5 verschiedenen Variable Fonts
-– zusätzliche Varianten in separatem Ordner
+- 5 eigenständigen Stories
+- 5 verschiedenen Variable Fonts
+- zusätzliche Varianten in separatem Ordner
 
 [Abgabe-Link Paul]() (Link noch nicht aktiv)
