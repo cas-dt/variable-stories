@@ -132,6 +132,4 @@ Finalisiere dein Projekt. Der Abgabe-Ordner enthält:
     - Woraus bestehen Anfang/Mitte/Ende?
     - Was ist der Change?
 
-Lade einen gezipten Ordner bis am 9.11.,18 Uhr auf Paul.
-
-[Abgabe-Link Paul](https://paul.zhdk.ch/mod/assign/view.php?id=115524)
+Lade einen gezipten Ordner bis am 9.11.,18 Uhr auf [Paul](https://paul.zhdk.ch/mod/assign/view.php?id=115524).
