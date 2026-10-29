@@ -117,12 +117,10 @@ Beispiel Sieg über das Monster
 Kernziel im Auge behalten: Eine würdige/adäquate Inszenierung der Eigenschaft(en) eines Variable Fonts.
 
 ## Abgabe – 9. November
-Der Abgabeordner enthält:
-- 5 eigenständigen Stories
-- 5 verschiedenen Variable Fonts
-- zusätzliche Varianten in separatem Ordner
 
-Finalisiere dein Projekt. Der Abgabe-Ordner enthält:
+Finalisiere dein Projekt.
+
+Der Abgabe-Ordner enthält:
 
 - 5 eigenständige Stories/Animationen
 - mit 5 unterschiedlichen Variable Fonts
